@@ -12,7 +12,7 @@ massiiv: leida vanim/noorim m/n<br>
 isikukoodiga seonduv cheat sheet wikist<br>
 
 Esimeseks numbriks on<br>
-    „1“, kui 1800...1899. a sündinud mees<br>
+    „1“, kui 1800...1899. a sündinud mees<br>   
     „2“, kui 1800...1899. a sündinud naine<br>
     „3“, kui 1900...1999. a sündinud mees<br>
     „4“, kui 1900...1999. a sündinud naine<br>
