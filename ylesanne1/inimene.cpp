@@ -10,13 +10,13 @@ Inimene::Inimene(long long isikukood){
 }
 
 Inimene::Inimene(const Inimene& a1){
-	cout << "kopeeritakse :" << kood << " ;" << endl;
+	//cout << "kopeeritakse :" << kood << " ;" << endl;
 	kood = a1.kood;
 }
 
 Inimene::~Inimene(){
-	cout << "Destruktor: ";
-	kirjuta();
+	//cout << "Destruktor: ";
+	//kirjuta();
 }
 
 void Inimene::kirjuta(void){
@@ -42,4 +42,15 @@ int Inimene::synniPaev(){
 	string paev = isikukood.substr(5,2);
 	int vaartus = stoi(paev);
 	return vaartus;
+}
+
+int Inimene::sajand(){
+	string isikukood = to_string(kood);
+	string sajand = isikukood.substr(0,1);
+	int vaartus = stoi(sajand);
+	return vaartus;
+}
+
+long long Inimene::isikuKood(){
+	return kood;
 }

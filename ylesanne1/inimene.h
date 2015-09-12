@@ -14,6 +14,8 @@ class Inimene{
 		int synniAasta();
 		int synniKuu();
 		int synniPaev();
+		int sajand();
+		long long isikuKood();
 };
 
 /*
