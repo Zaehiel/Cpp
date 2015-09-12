@@ -22,9 +22,9 @@ Esimeseks numbriks on<br>
     „8“, kui 2100...2199. a sündinud naine<br>
 
 
-1. = sugu ja sünni nn. "sajand" (praegune vahemik 1...6)<br>
-2. ja 3. = sünniaasta (00...99)<br>
-4. ja 5. = sünnikuu (01...12)<br>
-6. ja 7. = sünnikuupäev (01...31)<br>
-8., 9. ja 10. number = järjekorranumber samal päeval sündinute eristamiseks (000...999). Enne 2013. a sündinute puhul võib sisaldada haigla tunnust.<br>
-11. = kontrollnumber (0...9)<br>
+1 = sugu ja sünni nn. "sajand" (praegune vahemik 1...6)<br>
+2 ja 3 = sünniaasta (00...99)<br>
+4 ja 5 = sünnikuu (01...12)<br>
+6 ja 7 = sünnikuupäev (01...31)<br>
+8, 9 ja 10 number = järjekorranumber samal päeval sündinute eristamiseks (000...999). Enne 2013. a sündinute puhul võib sisaldada haigla tunnust.<br>
+11 = kontrollnumber (0...9)<br>
